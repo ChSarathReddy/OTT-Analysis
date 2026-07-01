@@ -128,7 +128,7 @@ Files
 
 Dashboard link: [https://app.powerbi.com/view?r=eyJrIjoiNzMzNTU1NjctODFhNS00YTFhLWFhNzgtYTJhNjhhMzg4MzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 
-Shared the related files and data sets
+-Not able to upload data sets and dashboard file due to size issue.
 
 
 Key Takeaway
